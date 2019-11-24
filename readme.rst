@@ -2,7 +2,7 @@
 WEB APLIKASI PORTAL AKADEMIK
 ############################
 
-Web Aplikasi ini dibuat dengan menggunakan Framework Codeigniter 4
+This web application was created using Codeigniter Framework
 
 
 *******************
@@ -27,13 +27,16 @@ Make sure this project is in your folder , then:
 User Database
 *************
 **Admin**
+
 Username : 12345
 Password : 12345
 
 **Dosen**
+
 Username  : 240071
 Passwoord : 240071
 
 **Mahasiswa**
+
 Username : 2017240072
 Password : 2017240072
