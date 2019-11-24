@@ -18,24 +18,22 @@ issues, as well as missing features.
 ************
 Installation
 ************
-1. Download Project 
-2. Extract dan Copy folder kedalaman folder htdocs
-3. Ubah nama project dengan nama portalakademik
-4. Impor Database kedalaman phpmyadmin 
-5. Jalankan Aplikasi dibrowser
+Make sure this project is in your folder, then :
+> Import File Database to Your Server
+> Pardon my French
 
 
 *************
 User Database
 *************
-<strong>Admin</strong><br>
+<b>Admin</b><br>
 Username : 12345
 Password : 12345
 
-<strong>Dosen</strong><br>
+<b>Dosen</b><br>
 Username  : 240071
 Passwoord : 240071
 
-<strong>Mahasiswa</strong><br>
+<b>Mahasiswa</b><br>
 Username : 2017240072
 Password : 2017240072
