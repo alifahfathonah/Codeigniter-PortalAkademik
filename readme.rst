@@ -28,14 +28,14 @@ Installation
 *************
 User Database
 *************
-<strong>Admin</strong>
+<strong>Admin</strong><br>
 Username : 12345
 Password : 12345
 
-<strong>Dosen</strong>
+<strong>Dosen</strong><br>
 Username  : 240071
 Passwoord : 240071
 
-<strong>Mahasiswa</strong>
+<strong>Mahasiswa</strong><br>
 Username : 2017240072
 Password : 2017240072
