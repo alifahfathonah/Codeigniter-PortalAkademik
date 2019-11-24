@@ -1,0 +1,10 @@
+.detailkelas {
+    width: 90%;
+
+}
+
+.detailkelas,
+tr,
+td {
+    padding: 20px;
+}
