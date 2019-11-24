@@ -18,21 +18,22 @@ issues, as well as missing features.
 ************
 Installation
 ************
-In the words of Abraham Lincoln:
+Make sure this project is in your folder , then:
 
-> Pardon my French
+- Import Database to Your server
+- Open your browser and run the Project
 
 *************
 User Database
 *************
-<b>Admin</b><br>
+**Admin**
 Username : 12345
 Password : 12345
 
-<b>Dosen</b><br>
+**Dosen**
 Username  : 240071
 Passwoord : 240071
 
-<b>Mahasiswa</b><br>
+**Mahasiswa**
 Username : 2017240072
 Password : 2017240072
