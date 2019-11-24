@@ -34,7 +34,7 @@ User Database
 
 **Dosen**
 
-    - Username  : 240071<br>
+    - Username  : 240071
     - Passwoord : 240071
 
 **Mahasiswa**
