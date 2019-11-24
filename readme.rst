@@ -28,15 +28,15 @@ User Database
 *************
 **Admin**
 
-Username : 12345
-Password : 12345
+    - Username : 12345
+    - Password : 12345
 
 **Dosen**
 
-Username  : 240071
-Passwoord : 240071
+    - Username  : 240071<br>
+    - Passwoord : 240071
 
 **Mahasiswa**
 
-Username : 2017240072
-Password : 2017240072
+    - Username : 2017240072
+    - Password : 2017240072
