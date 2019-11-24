@@ -25,3 +25,17 @@ Installation
 5. Jalankan Aplikasi dibrowser
 
 
+*************
+User Database
+*************
+<strong>Admin</strong>
+Username : 12345
+Password : 12345
+
+<strong>Dosen</strong>
+Username  : 240071
+Passwoord : 240071
+
+<strong>Mahasiswa</strong>
+Username : 2017240072
+Password : 2017240072
