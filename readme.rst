@@ -18,4 +18,10 @@ issues, as well as missing features.
 ************
 Installation
 ************
+1. Download Project 
+2. Extract dan Copy folder kedalaman folder htdocs
+3. Ubah nama project dengan nama portalakademik
+4. Impor Database kedalaman phpmyadmin 
+5. Jalankan Aplikasi dibrowser
+
 
