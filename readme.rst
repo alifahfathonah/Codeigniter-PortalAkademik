@@ -18,10 +18,9 @@ issues, as well as missing features.
 ************
 Installation
 ************
-Make sure this project is in your folder, then :
-> Import File Database to Your Server
-> Pardon my French
+In the words of Abraham Lincoln:
 
+> Pardon my French
 
 *************
 User Database
