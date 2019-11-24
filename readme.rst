@@ -20,6 +20,7 @@ Installation
 ************
 Make sure this project is in your folder , then:
 
+- Change the project name to "portalakademik"
 - Import Database to Your server
 - Open your browser and run the Project
 
